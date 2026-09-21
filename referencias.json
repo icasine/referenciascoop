@@ -1,0 +1,93 @@
+[
+  {
+    "id": "cf-1988",
+    "referencia": "BRASIL. [Constituição (1988)]. **Constituição da República Federativa do Brasil de 1988**. Brasília, DF: Presidência da República, 1988.",
+    "tipo": "Legislação",
+    "tags": [
+      "legislação",
+      "constituição"
+    ],
+    "link": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "ano": 1988
+  },
+  {
+    "id": "lc-130-2009",
+    "referencia": "BRASIL. Lei Complementar nº 130, de 17 de abril de 2009. Dispõe sobre o Sistema Nacional de Crédito Cooperativo e revoga dispositivos das Leis nºs 4.595, de 31 de dezembro de 1964, e 5.764, de 16 de dezembro de 1971. **Diário Oficial da União**: seção 1, Brasília, DF, 17 abr. 2009.",
+    "tipo": "Legislação",
+    "tags": [
+      "crédito",
+      "legislação",
+      "sncc"
+    ],
+    "link": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp130.htm",
+    "ano": 2009
+  },
+  {
+    "id": "lei-5764-1971",
+    "referencia": "BRASIL. Lei nº 5.764, de 16 de dezembro de 1971. Define a Política Nacional de Cooperativismo, institui o regime jurídico das sociedades cooperativas, e dá outras providências. **Diário Oficial da União**: seção 1, Brasília, DF, 16 dez. 1971.",
+    "tipo": "Legislação",
+    "tags": [
+      "legislação",
+      "lei geral do cooperativismo"
+    ],
+    "link": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
+    "ano": 1971,
+    "nota": "Principal norma do cooperativismo brasileiro.",
+    "evidenciar": true
+  },
+  {
+    "id": "aci-identidade",
+    "referencia": "INTERNATIONAL COOPERATIVE ALLIANCE. **Cooperative identity, values & principles**. Brussels: ICA, [s.d.].",
+    "tipo": "Site",
+    "tags": [
+      "princípios",
+      "valores",
+      "aci"
+    ],
+    "link": "https://ica.coop/en/cooperatives/cooperative-identity",
+    "nota": "Exemplo de referência sem ano definido."
+  },
+  {
+    "id": "krueger-2004",
+    "referencia": "KRUEGER, Guilherme (coord.). **Ato cooperativo e seu adequado tratamento tributário**. Belo Horizonte: Mandamentos, 2004.",
+    "tipo": "Livro",
+    "tags": [
+      "ato cooperativo",
+      "tributação"
+    ],
+    "ano": 2004,
+    "evidenciar": true
+  },
+  {
+    "id": "pinheiro-2008",
+    "referencia": "PINHEIRO, Marcos Antonio Henriques. **Cooperativas de crédito**: história da evolução normativa no Brasil. Brasília: Banco Central do Brasil, 2008.",
+    "tipo": "Livro",
+    "tags": [
+      "crédito",
+      "história",
+      "legislação"
+    ],
+    "ano": 2008,
+    "nota": "Usada na Aula 1, seção de história do cooperativismo financeiro."
+  },
+  {
+    "id": "scamuzzi-1998",
+    "referencia": "SCAMUZZI, Sergio. Formação social. In: BOBBIO, Norberto; MATTEUCCI, Nicola; PASQUINO, Gianfranco. **Dicionário de política**. 11. ed. Brasília: Editora Universidade de Brasília, 1998.",
+    "tipo": "Capítulo de livro",
+    "tags": [
+      "sociologia",
+      "vocabulário"
+    ],
+    "ano": 1998
+  },
+  {
+    "id": "schaefer-2016",
+    "referencia": "SCHAEFER, Richard T. **Fundamentos de sociologia**. Porto Alegre: AMGH, 2016.",
+    "tipo": "Livro",
+    "tags": [
+      "sociologia",
+      "grupos"
+    ],
+    "ano": 2016
+  }
+]
