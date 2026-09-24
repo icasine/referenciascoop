@@ -1,5 +1,149 @@
 [
   {
+    "id": "alves-2003",
+    "referencia": "ALVES, André Gustavo de Miranda Pineli. **As cooperativas agropecuárias e o BRDE**: histórico, situação atual e perspectivas. Porto Alegre: BRDE, 2003.",
+    "tipo": "Livro",
+    "tags": [
+      "agropecuária",
+      "financiamento"
+    ],
+    "ano": 2003
+  },
+  {
+    "id": "argentina-1973",
+    "referencia": "ARGENTINA. **Ley nº 20.337, de 2 de mayo de 1973**. Ley de Cooperativas. Buenos Aires, 1973.",
+    "tipo": "Legislação",
+    "tags": [
+      "legislação",
+      "argentina",
+      "direito comparado"
+    ],
+    "link": "https://www.argentina.gob.ar/normativa/nacional/ley-20337-18462",
+    "ano": 1973
+  },
+  {
+    "id": "becho-2002b",
+    "referencia": "BECHO, Renato Lopes (org.). **Problemas atuais do direito cooperativo**. São Paulo: Dialética, 2002.",
+    "tipo": "Livro",
+    "tags": [
+      "direito cooperativo",
+      "becho"
+    ],
+    "ano": 2002
+  },
+  {
+    "id": "becho-2002a",
+    "referencia": "BECHO, Renato Lopes. **Elementos de direito cooperativo**. São Paulo: Dialética, 2002.",
+    "tipo": "Livro",
+    "tags": [
+      "direito cooperativo",
+      "ato cooperativo",
+      "becho"
+    ],
+    "ano": 2002,
+    "evidenciar": true
+  },
+  {
+    "id": "bento16-2011",
+    "referencia": "BENTO XVI, Papa. **À delegação da Confederação das Cooperativas e dos Bancos de Crédito Cooperativo por ocasião do 120º aniversário da Rerum Novarum**. Vaticano: Libreria Editrice Vaticana, 2011.",
+    "tipo": "Documento",
+    "tags": [
+      "doutrina social",
+      "igreja"
+    ],
+    "ano": 2011
+  },
+  {
+    "id": "bialoskorski-2006",
+    "referencia": "BIALOSKORSKI NETO, Sigismundo. **Aspectos econômicos das cooperativas**. Belo Horizonte: Mandamentos, 2006.",
+    "tipo": "Livro",
+    "tags": [
+      "economia",
+      "gestão",
+      "bialoskorski"
+    ],
+    "ano": 2006,
+    "nota": "Introdução à economia das cooperativas.",
+    "evidenciar": true
+  },
+  {
+    "id": "bialoskorski-1998",
+    "referencia": "BIALOSKORSKI NETO, Sigismundo. **Cooperativas**: economia, crescimento e estrutura de capital. 1998. Tese (Doutorado em Economia Aplicada) - Escola Superior de Agricultura Luiz de Queiroz, Universidade de São Paulo, Piracicaba, 1998.",
+    "tipo": "Tese",
+    "tags": [
+      "economia",
+      "capital",
+      "agropecuária",
+      "bialoskorski"
+    ],
+    "link": "https://www.teses.usp.br/teses/disponiveis/11/11132/tde-20191220-134555/",
+    "ano": 1998
+  },
+  {
+    "id": "bialoskorski-2007",
+    "referencia": "BIALOSKORSKI NETO, Sigismundo. Um ensaio sobre desempenho econômico e participação em cooperativas agropecuárias. **Revista de Economia e Sociologia Rural**, Rio de Janeiro, v. 45, n. 1, p. 119-138, 2007.",
+    "tipo": "Artigo",
+    "tags": [
+      "participação",
+      "desempenho",
+      "agropecuária"
+    ],
+    "ano": 2007
+  },
+  {
+    "id": "bialoskorski-2012",
+    "referencia": "BIALOSKORSKI NETO, Sigismundo; BARROSO, Marcelo Francini Girão; REZENDE, Amaury José. Governança cooperativa e sistemas de controle gerencial: uma abordagem teórica de custos da agência. **Brazilian Business Review**, Vitória, v. 9, n. 2, p. 21, 2012.",
+    "tipo": "Artigo",
+    "tags": [
+      "governança",
+      "gestão"
+    ],
+    "ano": 2012
+  },
+  {
+    "id": "boas-2021",
+    "referencia": "BOAS, Lucas Guedes Vilas. Breve histórico acerca das cooperativas agropecuárias no Brasil. **Élisée**: Revista de Geografia da UEG, Porangatu, v. 10, n. 1, p. 1-16, 2021.",
+    "tipo": "Artigo",
+    "tags": [
+      "agropecuária",
+      "história"
+    ],
+    "ano": 2021
+  },
+  {
+    "id": "boesche-2008",
+    "referencia": "BOESCHE, Leonardo; MAFIOLETTI, Robson L. Evolução e indicadores do cooperativismo brasileiro e paranaense. **Publica FESP-PR**, Curitiba, v. 7, 2008.",
+    "tipo": "Artigo",
+    "tags": [
+      "dados",
+      "paraná",
+      "história"
+    ],
+    "ano": 2008
+  },
+  {
+    "id": "bourgeois-1896",
+    "referencia": "BOURGEOIS, Léon. **Solidarité**. Paris: Armand Colin, 1896.",
+    "tipo": "Livro",
+    "tags": [
+      "solidarismo",
+      "filosofia",
+      "pensadores"
+    ],
+    "ano": 1896
+  },
+  {
+    "id": "braga-2002",
+    "referencia": "BRAGA, Marcelo José; REIS, Brício dos Santos (org.). **Agronegócio cooperativo**: reestruturação e estratégias. Viçosa: UFV, DER, 2002.",
+    "tipo": "Livro",
+    "tags": [
+      "agropecuária",
+      "agronegócio",
+      "estratégia"
+    ],
+    "ano": 2002
+  },
+  {
     "id": "cf-1988",
     "referencia": "BRASIL. [Constituição (1988)]. **Constituição da República Federativa do Brasil de 1988**. Brasília, DF: Presidência da República, 1988.",
     "tipo": "Legislação",
@@ -10,6 +154,39 @@
     ],
     "link": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
     "ano": 1988
+  },
+  {
+    "id": "dec-3017-1999",
+    "referencia": "BRASIL. **Decreto nº 3.017, de 6 de abril de 1999**. Aprova o Regimento do Serviço Nacional de Aprendizagem do Cooperativismo (SESCOOP). Brasília, DF: Presidência da República, 1999.",
+    "tipo": "Legislação",
+    "tags": [
+      "legislação",
+      "sescoop"
+    ],
+    "link": "https://www.planalto.gov.br/ccivil_03/decreto/D3017.htm",
+    "ano": 1999
+  },
+  {
+    "id": "dec-7357-2010",
+    "referencia": "BRASIL. **Decreto nº 7.357, de 17 de novembro de 2010**. Dispõe sobre o Programa Nacional de Incubadoras de Cooperativas Populares (PRONINC), e dá outras providências. Brasília, DF: Presidência da República, 2010.",
+    "tipo": "Legislação",
+    "tags": [
+      "legislação",
+      "incubadoras",
+      "economia solidária"
+    ],
+    "ano": 2010
+  },
+  {
+    "id": "dl-59-1966",
+    "referencia": "BRASIL. **Decreto-Lei nº 59, de 21 de novembro de 1966**. Define a política nacional de cooperativismo, cria o Conselho Nacional do Cooperativismo e dá outras providências. Brasília, DF: Presidência da República, 1966.",
+    "tipo": "Legislação",
+    "tags": [
+      "legislação",
+      "história",
+      "revogada"
+    ],
+    "ano": 1966
   },
   {
     "id": "lc-130-2009",
@@ -25,6 +202,42 @@
     "ano": 2009
   },
   {
+    "id": "cc-2002",
+    "referencia": "BRASIL. **Lei nº 10.406, de 10 de janeiro de 2002**. Institui o Código Civil. Brasília, DF: Presidência da República, 2002.",
+    "tipo": "Legislação",
+    "tags": [
+      "legislação",
+      "código civil"
+    ],
+    "link": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+    "ano": 2002,
+    "nota": "Arts. 1.093 a 1.096 tratam das sociedades cooperativas."
+  },
+  {
+    "id": "lei-12690-2012",
+    "referencia": "BRASIL. **Lei nº 12.690, de 19 de julho de 2012**. Dispõe sobre a organização e o funcionamento das Cooperativas de Trabalho; institui o Programa Nacional de Fomento às Cooperativas de Trabalho (PRONACOOP). Brasília, DF: Presidência da República, 2012.",
+    "tipo": "Legislação",
+    "tags": [
+      "legislação",
+      "cooperativas de trabalho"
+    ],
+    "link": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12690.htm",
+    "ano": 2012,
+    "evidenciar": true
+  },
+  {
+    "id": "lei-13926-2019",
+    "referencia": "BRASIL. **Lei nº 13.926, de 6 de dezembro de 2019**. Declara o padre Theodor Amstad Patrono do Cooperativismo Brasileiro. Brasília, DF: Presidência da República, 2019.",
+    "tipo": "Legislação",
+    "tags": [
+      "legislação",
+      "amstad",
+      "história"
+    ],
+    "link": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13926.htm",
+    "ano": 2019
+  },
+  {
     "id": "lei-5764-1971",
     "referencia": "BRASIL. Lei nº 5.764, de 16 de dezembro de 1971. Define a Política Nacional de Cooperativismo, institui o regime jurídico das sociedades cooperativas, e dá outras providências. **Diário Oficial da União**: seção 1, Brasília, DF, 16 dez. 1971.",
     "tipo": "Legislação",
@@ -35,6 +248,373 @@
     "link": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm",
     "ano": 1971,
     "nota": "Principal norma do cooperativismo brasileiro.",
+    "evidenciar": true
+  },
+  {
+    "id": "lei-9867-1999",
+    "referencia": "BRASIL. **Lei nº 9.867, de 10 de novembro de 1999**. Dispõe sobre a criação e o funcionamento de Cooperativas Sociais, visando à integração social dos cidadãos, conforme especifica. Brasília, DF: Presidência da República, 1999.",
+    "tipo": "Legislação",
+    "tags": [
+      "legislação",
+      "cooperativas sociais"
+    ],
+    "link": "https://www.planalto.gov.br/ccivil_03/leis/l9867.htm",
+    "ano": 1999
+  },
+  {
+    "id": "mp-1715-1998",
+    "referencia": "BRASIL. **Medida Provisória nº 1.715, de 3 de setembro de 1998**. Dispõe sobre o Programa de Revitalização de Cooperativas de Produção Agropecuária (RECOOP), autoriza a criação do Serviço Nacional de Aprendizagem do Cooperativismo (SESCOOP), e dá outras providências. Brasília, DF: Presidência da República, 1998.",
+    "tipo": "Legislação",
+    "tags": [
+      "legislação",
+      "sescoop",
+      "recoop"
+    ],
+    "ano": 1998
+  },
+  {
+    "id": "mapa-2019",
+    "referencia": "BRASIL. Ministério da Agricultura, Pecuária e Abastecimento. **Portaria nº 129, de 4 de julho de 2019**. Institui o programa de governo Brasil Mais Cooperativo. Brasília, DF: MAPA, 2019.",
+    "tipo": "Legislação",
+    "tags": [
+      "legislação",
+      "políticas públicas",
+      "mapa"
+    ],
+    "ano": 2019
+  },
+  {
+    "id": "brum-1996",
+    "referencia": "BRUM, Argemiro Luís. O cooperativismo nova geração. **Revista de Política Agrícola**, Brasília, v. 5, n. 1, 1996.",
+    "tipo": "Artigo",
+    "tags": [
+      "agropecuária",
+      "nova geração"
+    ],
+    "ano": 1996
+  },
+  {
+    "id": "bulgarelli-1973a",
+    "referencia": "BULGARELLI, Waldirio. A nova legislação cooperativista brasileira. In: PINHO, Diva Benevides (org.). **A problemática cooperativista no desenvolvimento econômico**. São Paulo: Fundação Friedrich Naumann, 1973. p. 133.",
+    "tipo": "Capítulo de livro",
+    "tags": [
+      "legislação",
+      "lei 5.764",
+      "bulgarelli"
+    ],
+    "ano": 1973
+  },
+  {
+    "id": "bulgarelli-1973b",
+    "referencia": "BULGARELLI, Waldirio. A nova Lei das Sociedades Cooperativas. **Justitia**, São Paulo, v. 35, n. 81, 1973.",
+    "tipo": "Artigo",
+    "tags": [
+      "legislação",
+      "lei 5.764",
+      "bulgarelli"
+    ],
+    "ano": 1973
+  },
+  {
+    "id": "bulgarelli-1998",
+    "referencia": "BULGARELLI, Waldirio. **As sociedades cooperativas e a sua disciplina jurídica**. Rio de Janeiro: Renovar, 1998.",
+    "tipo": "Livro",
+    "tags": [
+      "direito cooperativo",
+      "ato cooperativo",
+      "bulgarelli"
+    ],
+    "ano": 1998,
+    "nota": "Clássico do direito cooperativo brasileiro.",
+    "evidenciar": true
+  },
+  {
+    "id": "bulgarelli-1967",
+    "referencia": "BULGARELLI, Waldirio. **Elaboração do direito cooperativo**. São Paulo: Atlas, 1967.",
+    "tipo": "Livro",
+    "tags": [
+      "direito cooperativo",
+      "ato cooperativo",
+      "bulgarelli"
+    ],
+    "ano": 1967
+  },
+  {
+    "id": "bulgarelli-1966",
+    "referencia": "BULGARELLI, Waldirio. **O kibutz e as cooperativas integrais**. São Paulo: Pioneira, 1966.",
+    "tipo": "Livro",
+    "tags": [
+      "direito cooperativo",
+      "cooperativas integrais"
+    ],
+    "ano": 1966
+  },
+  {
+    "id": "carvalho-2004",
+    "referencia": "CARVALHO, André; LEITE, João. **A cidade morria devagar**: o romance de uma cooperativa. Belo Horizonte: Armazém de Idéias, 2004.",
+    "tipo": "Livro",
+    "tags": [
+      "literatura",
+      "cultura cooperativa"
+    ],
+    "ano": 2004
+  },
+  {
+    "id": "castro-2000",
+    "referencia": "CASTRO, Lúcia Helena M.; HIRIART, Maria Magdalena M. **Temas de cooperativismo**. São Paulo: Instituto de Cooperativismo e Associativismo, 2000. (Série Orientação, 9/2000).",
+    "tipo": "Livro",
+    "tags": [
+      "introdução",
+      "gestão"
+    ],
+    "link": "https://codeagro.agricultura.sp.gov.br/uploads/publicacaoesIca/3_Temas%20de%20Cooperativismo.pdf",
+    "ano": 2000
+  },
+  {
+    "id": "aciamericas-2022",
+    "referencia": "COOPERATIVAS DE LAS AMÉRICAS. **Principios y valores cooperativos**. San José: Cooperativas de las Américas, 2022.",
+    "tipo": "Site",
+    "tags": [
+      "princípios",
+      "valores",
+      "aci"
+    ],
+    "ano": 2022
+  },
+  {
+    "id": "rios-sandroni-1999",
+    "referencia": "COOPERATIVISMO. In: SANDRONI, Paulo (org.). **Novíssimo dicionário de economia**. São Paulo: Best Seller, 1999. p. 132.",
+    "tipo": "Capítulo de livro",
+    "tags": [
+      "vocabulário",
+      "economia"
+    ],
+    "ano": 1999
+  },
+  {
+    "id": "copola-2001",
+    "referencia": "COPOLA, Gina. Cooperativas podem participar de licitações. **Revista do TCU**, Brasília, v. 32, n. 89, 2001.",
+    "tipo": "Artigo",
+    "tags": [
+      "licitações",
+      "compras públicas"
+    ],
+    "ano": 2001
+  },
+  {
+    "id": "cracogna-2008",
+    "referencia": "CRACOGNA, Dante. O ato cooperativo na América Latina. In: KRUEGER, Guilherme Gomes (org.). **Cooperativas na ordem econômica constitucional**: teoria e direito. Belo Horizonte: Mandamentos, 2008. p. 57-66.",
+    "tipo": "Capítulo de livro",
+    "tags": [
+      "ato cooperativo",
+      "américa latina",
+      "cracogna"
+    ],
+    "ano": 2008
+  },
+  {
+    "id": "cristofolini-2014",
+    "referencia": "CRISTOFOLINI, Ademir. **Tratamento tributário do ato cooperativo**. Rio de Janeiro: Lumen Juris, 2014.",
+    "tipo": "Livro",
+    "tags": [
+      "tributação",
+      "ato cooperativo"
+    ],
+    "ano": 2014
+  },
+  {
+    "id": "cunha-2023",
+    "referencia": "CUNHA, Luciano Alves. Plantar para colher: disseminando a cultura da cooperação por meio de projetos desenvolvidos na Cooperativa Educacional de São Roque de Minas. In: ENCONTRO BRASILEIRO DE PESQUISADORES EM COOPERATIVISMO, 7., 2023. **Anais** [...]. Brasília: Even3, 2023.",
+    "tipo": "Trabalho em evento",
+    "tags": [
+      "educação cooperativista",
+      "minas gerais",
+      "cooperativas educacionais"
+    ],
+    "ano": 2023
+  },
+  {
+    "id": "divar-1987",
+    "referencia": "DIVAR, Javier. **Régimen jurídico de las sociedades cooperativas**. Bilbao: Universidad de Deusto, 1987.",
+    "tipo": "Livro",
+    "tags": [
+      "direito cooperativo",
+      "espanha",
+      "divar"
+    ],
+    "ano": 1987
+  },
+  {
+    "id": "fairbairn-1994",
+    "referencia": "FAIRBAIRN, Brett. **The meaning of Rochdale**: the Rochdale pioneers and the co-operative principles. Saskatoon: University of Saskatchewan, Centre for the Study of Co-operatives, 1994.",
+    "tipo": "Livro",
+    "tags": [
+      "rochdale",
+      "princípios",
+      "história"
+    ],
+    "ano": 1994,
+    "nota": "Leitura de referência sobre a origem dos princípios cooperativos.",
+    "evidenciar": true
+  },
+  {
+    "id": "ferreira-2003",
+    "referencia": "FERREIRA, Angela L. A.; MORAIS, Maria Cristina de. Cooperativas habitacionais: do social ao mercado. **Scripta Nova**: revista electrónica de geografía y ciencias sociales, Barcelona, v. 7, n. 146(085), 2003.",
+    "tipo": "Artigo",
+    "tags": [
+      "habitação"
+    ],
+    "link": "https://www.ub.edu/geocrit/sn/sn-146(085).htm",
+    "ano": 2003
+  },
+  {
+    "id": "figueiredo-2000",
+    "referencia": "FIGUEIREDO, Ronise de Magalhães. **Dicionário prático de cooperativismo**. Belo Horizonte: Mandamentos, 2000.",
+    "tipo": "Livro",
+    "tags": [
+      "vocabulário",
+      "introdução",
+      "ronise figueiredo"
+    ],
+    "ano": 2000,
+    "nota": "Obra de consulta para os conceitos do cooperativismo.",
+    "evidenciar": true
+  },
+  {
+    "id": "francisco-2019",
+    "referencia": "FRANCISCO, Papa. **Discorso del Santo Padre Francesco ai membri della Confederazione delle Cooperative Italiane**. Roma: Libreria Editrice Vaticana, 2019.",
+    "tipo": "Documento",
+    "tags": [
+      "doutrina social",
+      "igreja"
+    ],
+    "link": "https://www.vatican.va/content/francesco/it/speeches/2019/march/documents/papa-francesco_20190316_confederazione-cooperative.html",
+    "ano": 2019
+  },
+  {
+    "id": "franke-1985",
+    "referencia": "FRANKE, Walmor (org.). **A interferência estatal nas cooperativas**: aspectos constitucionais, tributários, administrativos e societários. Porto Alegre: Fabris, 1985.",
+    "tipo": "Livro",
+    "tags": [
+      "estado",
+      "autonomia",
+      "direito cooperativo"
+    ],
+    "ano": 1985
+  },
+  {
+    "id": "franke-1973",
+    "referencia": "FRANKE, Walmor. **Direito das sociedades cooperativas**: direito cooperativo. São Paulo: Saraiva, 1973.",
+    "tipo": "Livro",
+    "tags": [
+      "direito cooperativo",
+      "ato cooperativo",
+      "franke"
+    ],
+    "ano": 1973,
+    "nota": "Clássico publicado logo após a Lei 5.764/1971.",
+    "evidenciar": true
+  },
+  {
+    "id": "fundacaosicredi-2014",
+    "referencia": "FUNDAÇÃO SICREDI. **A trajetória do Sicredi**: uma história de cooperação. Porto Alegre: Fundação Sicredi, 2014.",
+    "tipo": "Livro",
+    "tags": [
+      "crédito",
+      "sicredi",
+      "história"
+    ],
+    "ano": 2014
+  },
+  {
+    "id": "gide-1902",
+    "referencia": "GIDE, Charles. **Principles of political economy**. Tradução de Edward Percy Jacobsen. Boston: D. C. Heath and Company, 1902.",
+    "tipo": "Livro",
+    "tags": [
+      "gide",
+      "escola de nîmes",
+      "economia",
+      "pensadores"
+    ],
+    "ano": 1902
+  },
+  {
+    "id": "gonçalves-1994",
+    "referencia": "GONÇALVES, José Sidnei; VEGRO, Celso Luis Rodrigues. Crise econômica e cooperativismo agrícola: uma discussão sobre os condicionantes das dificuldades financeiras da Cooperativa Agrícola de Cotia (CAC). **Agricultura em São Paulo**, São Paulo, v. 41, n. 2, p. 57-87, 1994.",
+    "tipo": "Artigo",
+    "tags": [
+      "agropecuária",
+      "crise",
+      "história"
+    ],
+    "ano": 1994
+  },
+  {
+    "id": "gouveia-2018",
+    "referencia": "GOUVEIA, Rodrigo. **Programa gênero e cooperativismo**: Coopergênero. Madrid: Cyan, 2018. (Programa EUROsociAL, v. 16).",
+    "tipo": "Livro",
+    "tags": [
+      "gênero",
+      "mulheres",
+      "políticas públicas"
+    ],
+    "ano": 2018
+  },
+  {
+    "id": "gozer-2018",
+    "referencia": "GOZER, Isabel Cristina et al. Diferenciação da definição de ato cooperativo na legislação argentina em relação à legislação brasileira. In: ENCONTRO DE PESQUISADORES LATINO-AMERICANOS DE COOPERATIVISMO, 5., 2018, Ribeirão Preto. **Anais** [...]. Ribeirão Preto, 2018.",
+    "tipo": "Trabalho em evento",
+    "tags": [
+      "ato cooperativo",
+      "argentina",
+      "direito comparado"
+    ],
+    "ano": 2018
+  },
+  {
+    "id": "haddad-2003",
+    "referencia": "HADDAD, Fernando. Sindicalismo, cooperativismo e socialismo. In: HADDAD, Fernando; CARNEIRO, Gilmar; ANTUNES, Ricardo (org.). **Sindicatos, cooperativas e socialismo**. São Paulo: Editora Fundação Perseu Abramo, 2003. p. 7-46.",
+    "tipo": "Capítulo de livro",
+    "tags": [
+      "sindicalismo",
+      "socialismo"
+    ],
+    "ano": 2003
+  },
+  {
+    "id": "hardin-1968",
+    "referencia": "HARDIN, Garrett. The tragedy of the commons. **Science**, v. 162, n. 3859, p. 1243-1248, 1968.",
+    "tipo": "Artigo",
+    "tags": [
+      "bens comuns",
+      "ação coletiva"
+    ],
+    "ano": 1968
+  },
+  {
+    "id": "holyoake-1933",
+    "referencia": "HOLYOAKE, George Jacob. **Os 28 tecelões de Rochdale**. Rio de Janeiro: GB, 1933.",
+    "tipo": "Livro",
+    "tags": [
+      "rochdale",
+      "história",
+      "pioneiros"
+    ],
+    "ano": 1933,
+    "nota": "Relato clássico da fundação da cooperativa de Rochdale (1844).",
+    "evidenciar": true
+  },
+  {
+    "id": "ica-2015",
+    "referencia": "INTERNATIONAL CO-OPERATIVE ALLIANCE. **Guidance notes to the co-operative principles**. Brussels: ICA, 2015.",
+    "tipo": "Documento",
+    "tags": [
+      "princípios",
+      "aci"
+    ],
+    "link": "https://ica.coop/sites/default/files/2021-11/ICA%20Guidance%20Notes%20EN.pdf",
+    "ano": 2015,
+    "nota": "Notas oficiais da ACI que explicam cada um dos sete princípios.",
     "evidenciar": true
   },
   {
@@ -61,6 +641,429 @@
     "evidenciar": true
   },
   {
+    "id": "krueger-2008",
+    "referencia": "KRUEGER, Guilherme Gomes (org.). **Cooperativas na ordem econômica constitucional**: teoria e direito. Belo Horizonte: Mandamentos, 2008.",
+    "tipo": "Livro",
+    "tags": [
+      "constituição",
+      "ordem econômica",
+      "krueger"
+    ],
+    "ano": 2008,
+    "evidenciar": true
+  },
+  {
+    "id": "krueger-2018a",
+    "referencia": "KRUEGER, Guilherme Gomes. A cooperativa sem degredados: uma esquizoanálise da sua promessa de felicidade. **Boletín de la Asociación Internacional de Derecho Cooperativo**, Bilbao, n. 53, p. 225-250, 2018.",
+    "tipo": "Artigo",
+    "tags": [
+      "identidade cooperativa",
+      "filosofia",
+      "krueger"
+    ],
+    "ano": 2018
+  },
+  {
+    "id": "krueger-2014a",
+    "referencia": "KRUEGER, Guilherme Gomes. Amor e verdade nas cooperativas. **Cadernos da EMARF**: fenomenologia e direito, Rio de Janeiro, v. 7, n. 1, p. 1-126, 2014.",
+    "tipo": "Artigo",
+    "tags": [
+      "filosofia",
+      "identidade cooperativa",
+      "krueger"
+    ],
+    "ano": 2014
+  },
+  {
+    "id": "krueger-2014b",
+    "referencia": "KRUEGER, Guilherme Gomes. As cooperativas entre a verdade e a validade. **Boletín de la Asociación Internacional de Derecho Cooperativo**, Bilbao, n. 48, 2014.",
+    "tipo": "Artigo",
+    "tags": [
+      "direito cooperativo",
+      "krueger"
+    ],
+    "ano": 2014
+  },
+  {
+    "id": "krueger-2015",
+    "referencia": "KRUEGER, Guilherme Gomes. Cooperação, concorrência e colusão: os casos de cooperativas de anestesiologistas com domínio de mercado no Brasil. **CIRIEC-España, Revista Jurídica de Economía Social y Cooperativa**, Valencia, n. 31, 2015.",
+    "tipo": "Artigo",
+    "tags": [
+      "concorrência",
+      "saúde",
+      "krueger"
+    ],
+    "ano": 2015
+  },
+  {
+    "id": "krueger-2016",
+    "referencia": "KRUEGER, Guilherme Gomes. Cooperativas e madalenas. **Boletín de la Asociación Internacional de Derecho Cooperativo**, Bilbao, n. 50, p. 241, 2016.",
+    "tipo": "Artigo",
+    "tags": [
+      "direito cooperativo",
+      "krueger"
+    ],
+    "ano": 2016
+  },
+  {
+    "id": "krueger-2018b",
+    "referencia": "KRUEGER, Guilherme Gomes. Cooperativas no contexto oligopolístico: uma questão para o direito penal econômico. **Revista de Gestão e Organizações Cooperativas**, Santa Maria, v. 1, n. especial, p. 99-112, 2018.",
+    "tipo": "Artigo",
+    "tags": [
+      "concorrência",
+      "direito penal econômico",
+      "krueger"
+    ],
+    "ano": 2018
+  },
+  {
+    "id": "krueger-2021",
+    "referencia": "KRUEGER, Guilherme Gomes. **História e alcance do ato cooperativo (parte 1)**: aula. [S. l.]: YouTube, 2021. 1 vídeo.",
+    "tipo": "Vídeo",
+    "tags": [
+      "ato cooperativo",
+      "aula",
+      "krueger"
+    ],
+    "link": "https://www.youtube.com/watch?v=ZVRDsiLKO-8",
+    "ano": 2021,
+    "nota": "Aula em vídeo sobre a origem do ato cooperativo."
+  },
+  {
+    "id": "krueger-2004b",
+    "referencia": "KRUEGER, Guilherme Gomes. Introdução. In: KRUEGER, Guilherme Gomes (coord.). **Ato cooperativo e seu adequado tratamento tributário**. Belo Horizonte: Mandamentos, 2004. p. 23-44.",
+    "tipo": "Capítulo de livro",
+    "tags": [
+      "ato cooperativo",
+      "tributação",
+      "krueger"
+    ],
+    "ano": 2004
+  },
+  {
+    "id": "lamming-1973",
+    "referencia": "LAMMING, Goodwin Norman. Eficiência em administração de cooperativas. In: PINHO, Diva Benevides (org.). **A problemática cooperativista no desenvolvimento econômico**. São Paulo: Fundação Friedrich Naumann, 1973.",
+    "tipo": "Capítulo de livro",
+    "tags": [
+      "gestão",
+      "administração"
+    ],
+    "ano": 1973
+  },
+  {
+    "id": "leal-2020",
+    "referencia": "LEAL, Erica Almeida et al. Cooperativas de trabalho: sustentabilidade, identidade jurídica e direito de contratar com a administração pública. **Revista de Gestão e Organizações Cooperativas**, Santa Maria, v. 7, n. 14, p. 185-202, 2020.",
+    "tipo": "Artigo",
+    "tags": [
+      "cooperativas de trabalho",
+      "licitações"
+    ],
+    "ano": 2020
+  },
+  {
+    "id": "leal-2022",
+    "referencia": "LEAL, Hugo. **Projeto de Lei nº 815/2022**. Regula a reorganização de sociedades cooperativas, altera dispositivos da Lei nº 5.764, de 16 de dezembro de 1971, e dá outras providências. Brasília: Câmara dos Deputados, 2022.",
+    "tipo": "Legislação",
+    "tags": [
+      "projeto de lei",
+      "reorganização societária"
+    ],
+    "ano": 2022
+  },
+  {
+    "id": "lima-1971",
+    "referencia": "LIMA, Luís Fernando Cirne. **Exposição de motivos da Lei nº 5.764, de 16 de dezembro de 1971**. Brasília: Câmara dos Deputados, 1971.",
+    "tipo": "Documento",
+    "tags": [
+      "lei 5.764",
+      "legislação",
+      "história"
+    ],
+    "ano": 1971
+  },
+  {
+    "id": "luzfilho-1960",
+    "referencia": "LUZ FILHO, Fábio. **Cooperativas escolares**. Rio de Janeiro: Coeditora Brasilica, 1960.",
+    "tipo": "Livro",
+    "tags": [
+      "educação cooperativista",
+      "cooperativas escolares"
+    ],
+    "ano": 1960
+  },
+  {
+    "id": "luzfilho-1953",
+    "referencia": "LUZ FILHO, Fábio. **Instruções para organização de sociedades cooperativas**. Rio de Janeiro: Coeditora Brasilica, 1953.",
+    "tipo": "Livro",
+    "tags": [
+      "constituição de cooperativas",
+      "história"
+    ],
+    "ano": 1953
+  },
+  {
+    "id": "melo-2015",
+    "referencia": "MELO, Thainara Granero de; SCOPINHO, Rosemeire Aparecida. Cooperativismo e políticas públicas: o caso do Programa de Aquisição de Alimentos (PAA) em uma cooperativa de trabalhadores rurais assentados em Ribeirão Preto, SP. In: CONGRESSO DE PESQUISADORES DE ECONOMIA SOLIDÁRIA, 1., 2015, São Carlos. **Anais** [...]. São Carlos: Diagrama Editorial, 2015.",
+    "tipo": "Trabalho em evento",
+    "tags": [
+      "políticas públicas",
+      "paa",
+      "agricultura familiar"
+    ],
+    "ano": 2015
+  },
+  {
+    "id": "mercosul-2001",
+    "referencia": "MERCOSUL. Conselho do Mercado Comum. **Resolução nº 35/01**. Cria a Reunião Especializada de Cooperativas do Mercosul. Montevidéu: CMC, 2001.",
+    "tipo": "Legislação",
+    "tags": [
+      "mercosul",
+      "internacional"
+    ],
+    "ano": 2001
+  },
+  {
+    "id": "morais-2022",
+    "referencia": "MORAIS, Leandro Pereira. Institucionalidades y políticas públicas para el cooperativismo brasileño: estado del arte, perspectivas y desafíos recientes. In: CORREA, Felipe (org.). **Instituciones y políticas públicas para el desarrollo cooperativo en América Latina**. Santiago: CEPAL, 2022. (Documentos de Proyectos, LC/TS.2021/203/Rev.1).",
+    "tipo": "Capítulo de livro",
+    "tags": [
+      "políticas públicas",
+      "américa latina",
+      "morais"
+    ],
+    "ano": 2022
+  },
+  {
+    "id": "moura-1958",
+    "referencia": "MOURA, Valdiki. **ABC da cooperação**: uma iniciação doutrinária. Rio de Janeiro: Serviço de Informação Agrícola, Ministério da Agricultura, 1958.",
+    "tipo": "Livro",
+    "tags": [
+      "doutrina",
+      "introdução",
+      "história"
+    ],
+    "ano": 1958
+  },
+  {
+    "id": "moura-1973",
+    "referencia": "MOURA, Valdiki. Caráter e tendências do movimento cooperativo no Brasil. In: PINHO, Diva Benevides (org.). **A problemática cooperativista no desenvolvimento econômico**. São Paulo: Fundação Friedrich Naumann, 1973.",
+    "tipo": "Capítulo de livro",
+    "tags": [
+      "história",
+      "brasil"
+    ],
+    "ano": 1973
+  },
+  {
+    "id": "moura-1947",
+    "referencia": "MOURA, Valdiki. **Notícia do cooperativismo brasileiro**. Washington: União Pan-Americana, 1947.",
+    "tipo": "Livro",
+    "tags": [
+      "história",
+      "brasil"
+    ],
+    "ano": 1947
+  },
+  {
+    "id": "nascimento-2000",
+    "referencia": "NASCIMENTO, Fernando Rios do. **Cooperativismo como alternativa de mudança**: uma abordagem normativa. Rio de Janeiro: Forense, 2000.",
+    "tipo": "Livro",
+    "tags": [
+      "direito cooperativo",
+      "legislação"
+    ],
+    "ano": 2000
+  },
+  {
+    "id": "ninaut-2008",
+    "referencia": "NINAUT, Evandro Scheid; MATOS, Marcos Antonio. Panorama do cooperativismo no Brasil. **Informações Econômicas**, São Paulo, v. 38, n. 8, 2008.",
+    "tipo": "Artigo",
+    "tags": [
+      "panorama",
+      "dados",
+      "brasil"
+    ],
+    "ano": 2008
+  },
+  {
+    "id": "oliveirajr-2004",
+    "referencia": "OLIVEIRA JÚNIOR, Carlos Claro de. Transition of Brazilian cooperatives' management model. In: USAID; ACDI/VOCA (org.). **Brazilian cooperativism**: the conquest of autonomy. Brasília: ACDI/VOCA, 2004. p. 44-51.",
+    "tipo": "Capítulo de livro",
+    "tags": [
+      "autogestão",
+      "gestão",
+      "autonomia"
+    ],
+    "ano": 2004
+  },
+  {
+    "id": "opuszka-2010",
+    "referencia": "OPUSZKA, Paulo Ricardo. **Cooperativismo popular**: os limites da organização coletiva do trabalho a partir da experiência da pesca artesanal do Extremo Sul do Brasil. 2010. Tese (Doutorado em Direito) - Universidade Federal do Paraná, Curitiba, 2010.",
+    "tipo": "Tese",
+    "tags": [
+      "cooperativismo popular",
+      "cooperativas de trabalho",
+      "pesca"
+    ],
+    "ano": 2010
+  },
+  {
+    "id": "opuszka-2006",
+    "referencia": "OPUSZKA, Paulo Ricardo. **Elementos do direito moderno para uma compreensão da organização coletiva do trabalho em cooperativas**. 2006. 161 f. Dissertação (Mestrado em Direito) - Universidade Federal do Paraná, Curitiba, 2006.",
+    "tipo": "Dissertação",
+    "tags": [
+      "cooperativas de trabalho",
+      "direito"
+    ],
+    "ano": 2006
+  },
+  {
+    "id": "ocb-2022a",
+    "referencia": "ORGANIZAÇÃO DAS COOPERATIVAS BRASILEIRAS. **Anuário do cooperativismo brasileiro 2022**. Brasília: OCB, 2022.",
+    "tipo": "Documento",
+    "tags": [
+      "dados",
+      "ocb",
+      "anuário"
+    ],
+    "link": "https://anuario.coop.br",
+    "ano": 2022
+  },
+  {
+    "id": "ocb-2022d",
+    "referencia": "ORGANIZAÇÃO DAS COOPERATIVAS BRASILEIRAS. **Propostas para um Brasil mais cooperativo**: 2023 a 2026. Brasília: OCB, 2022.",
+    "tipo": "Documento",
+    "tags": [
+      "ocb",
+      "políticas públicas"
+    ],
+    "ano": 2022
+  },
+  {
+    "id": "onu-2023",
+    "referencia": "ORGANIZAÇÃO DAS NAÇÕES UNIDAS. **Relatório A/78/187**: cooperatives in social development. Relatório do Secretário-Geral. Nova York: ONU, 2023.",
+    "tipo": "Documento",
+    "tags": [
+      "onu",
+      "desenvolvimento social"
+    ],
+    "ano": 2023
+  },
+  {
+    "id": "onu-2021",
+    "referencia": "ORGANIZAÇÃO DAS NAÇÕES UNIDAS. **Resolução A/RES/76/135**: cooperatives in social development. Nova York: ONU, 2021.",
+    "tipo": "Documento",
+    "tags": [
+      "onu",
+      "desenvolvimento social"
+    ],
+    "ano": 2021
+  },
+  {
+    "id": "oit-2002",
+    "referencia": "ORGANIZAÇÃO INTERNACIONAL DO TRABALHO. **Recomendação nº 193**: sobre a promoção das cooperativas. Genebra: OIT, 2002.",
+    "tipo": "Documento",
+    "tags": [
+      "oit",
+      "políticas públicas",
+      "internacional"
+    ],
+    "ano": 2002,
+    "nota": "Principal norma internacional sobre promoção das cooperativas.",
+    "evidenciar": true
+  },
+  {
+    "id": "ostrom-2011",
+    "referencia": "OSTROM, Elinor. **Governing the commons**: the evolution of institutions for collective action. Cambridge: Cambridge University Press, 2011. (Political economy of institutions and decisions).",
+    "tipo": "Livro",
+    "tags": [
+      "bens comuns",
+      "ação coletiva",
+      "governança",
+      "ostrom"
+    ],
+    "ano": 2011,
+    "nota": "Obra que rendeu a Ostrom o Nobel de Economia (2009); base para pensar a autogestão.",
+    "evidenciar": true
+  },
+  {
+    "id": "owen-1816",
+    "referencia": "OWEN, Robert. **A new view of society**: or, essays on the principle of the formation of the human character, and the application of the principle to practice. London, 1816.",
+    "tipo": "Livro",
+    "tags": [
+      "owen",
+      "pensadores",
+      "socialismo utópico",
+      "história"
+    ],
+    "link": "https://avalon.law.yale.edu/subject_menus/owenm.asp",
+    "ano": 1816
+  },
+  {
+    "id": "owen-1817",
+    "referencia": "OWEN, Robert. **Observations on the effect of the manufacturing system**: with hints for the improvement of those parts of it which are most injurious to health and morals. London, 1817.",
+    "tipo": "Livro",
+    "tags": [
+      "owen",
+      "pensadores",
+      "história"
+    ],
+    "link": "https://www.marxists.org/reference/subject/economics/owen/observations.htm",
+    "ano": 1817
+  },
+  {
+    "id": "pelegrini-2004",
+    "referencia": "PELEGRINI, Marcelo Aparecido; RIBEIRO, Fernando Selles; PAZZINI, Luiz Henrique Alves. As cooperativas de eletrificação rural no novo cenário do setor elétrico. In: ENCONTRO DE ENERGIA NO MEIO RURAL, 5., 2004, Campinas. **Anais** [...]. Campinas: SciELO Proceedings, 2004.",
+    "tipo": "Trabalho em evento",
+    "tags": [
+      "infraestrutura",
+      "energia",
+      "eletrificação rural"
+    ],
+    "ano": 2004
+  },
+  {
+    "id": "pereirajr-2007",
+    "referencia": "PEREIRA JÚNIOR, Jessé Torres; DOTTI, Marinês Restelatto. As sociedades cooperativas e o tratamento privilegiado concedido às microempresas e empresas de pequeno porte: Lei Complementar nº 123/2006 e Lei nº 11.488/2007. **Revista do TCU**, Brasília, v. 38, n. 110, p. 47-65, 2007.",
+    "tipo": "Artigo",
+    "tags": [
+      "licitações",
+      "microempresas"
+    ],
+    "ano": 2007
+  },
+  {
+    "id": "pereira-2012",
+    "referencia": "PEREIRA, Clara Marinho; SILVA, Sandro Pereira. A nova lei de cooperativas de trabalho no Brasil: novidades, controvérsias e interrogações. **Mercado de Trabalho**, Brasília, IPEA, 2012.",
+    "tipo": "Artigo",
+    "tags": [
+      "cooperativas de trabalho",
+      "lei 12.690"
+    ],
+    "ano": 2012
+  },
+  {
+    "id": "perius-1988",
+    "referencia": "PERIUS, Vergílio Frederico. Atenuação ou eliminação estatal tendo em vista o projeto de autocontrole. In: ROSE, Marco Túlio de (org.). **A interferência estatal nas cooperativas**. Porto Alegre: Fabris, 1988.",
+    "tipo": "Capítulo de livro",
+    "tags": [
+      "autocontrole",
+      "autonomia",
+      "estado"
+    ],
+    "ano": 1988
+  },
+  {
+    "id": "perius-2007",
+    "referencia": "PERIUS, Vergílio Frederico. Da Política Nacional de Cooperativismo. In: KRUEGER, Guilherme Gomes; MIRANDA, André Branco de (org.). **Comentários à legislação das sociedades cooperativas**. Belo Horizonte: Mandamentos, 2007. t. 1.",
+    "tipo": "Capítulo de livro",
+    "tags": [
+      "política nacional de cooperativismo",
+      "lei 5.764"
+    ],
+    "ano": 2007
+  },
+  {
     "id": "pinheiro-2008",
     "referencia": "PINHEIRO, Marcos Antonio Henriques. **Cooperativas de crédito**: história da evolução normativa no Brasil. Brasília: Banco Central do Brasil, 2008.",
     "tipo": "Livro",
@@ -71,6 +1074,202 @@
     ],
     "ano": 2008,
     "nota": "Usada na Aula 1, seção de história do cooperativismo financeiro."
+  },
+  {
+    "id": "pinho-cm-1973",
+    "referencia": "PINHO, Carlos Marques. O Estado brasileiro e as cooperativas. In: PINHO, Diva Benevides (org.). **A problemática cooperativista no desenvolvimento econômico**. São Paulo: Fundação Friedrich Naumann, 1973. p. 107.",
+    "tipo": "Capítulo de livro",
+    "tags": [
+      "estado",
+      "políticas públicas",
+      "história"
+    ],
+    "ano": 1973
+  },
+  {
+    "id": "pinho-1973",
+    "referencia": "PINHO, Diva Benevides (org.). **A problemática cooperativista no desenvolvimento econômico**. São Paulo: Fundação Friedrich Naumann, 1973.",
+    "tipo": "Livro",
+    "tags": [
+      "desenvolvimento",
+      "doutrina",
+      "diva pinho"
+    ],
+    "ano": 1973
+  },
+  {
+    "id": "pinho-1982",
+    "referencia": "PINHO, Diva Benevides (org.). **O pensamento cooperativo e o cooperativismo brasileiro**. São Paulo: CNPq, 1982.",
+    "tipo": "Livro",
+    "tags": [
+      "doutrina",
+      "história",
+      "diva pinho"
+    ],
+    "ano": 1982
+  },
+  {
+    "id": "pinho-1973b",
+    "referencia": "PINHO, Diva Benevides. A doutrina cooperativa e a problemática do desenvolvimento econômico. In: PINHO, Diva Benevides (org.). **A problemática cooperativista no desenvolvimento econômico**. São Paulo: Fundação Friedrich Naumann, 1973. p. 15-48.",
+    "tipo": "Capítulo de livro",
+    "tags": [
+      "doutrina",
+      "desenvolvimento",
+      "diva pinho"
+    ],
+    "ano": 1973
+  },
+  {
+    "id": "pinho-2001",
+    "referencia": "PINHO, Diva Benevides. **Cooperativismo**: fundamentos doutrinários e teóricos. São Paulo: ICA, 2001.",
+    "tipo": "Livro",
+    "tags": [
+      "doutrina",
+      "teoria",
+      "diva pinho"
+    ],
+    "ano": 2001
+  },
+  {
+    "id": "pinho-2000",
+    "referencia": "PINHO, Diva Benevides. **Gênero e desenvolvimento em cooperativas**: compartilhando igualdade e responsabilidades. Brasília: OCB; Sescoop, 2000.",
+    "tipo": "Livro",
+    "tags": [
+      "gênero",
+      "mulheres",
+      "diva pinho"
+    ],
+    "ano": 2000
+  },
+  {
+    "id": "pinho-2004",
+    "referencia": "PINHO, Diva Benevides. **O cooperativismo no Brasil**: da vertente pioneira à vertente solidária. São Paulo: Saraiva, 2004.",
+    "tipo": "Livro",
+    "tags": [
+      "história",
+      "brasil",
+      "economia solidária",
+      "diva pinho"
+    ],
+    "ano": 2004,
+    "nota": "Panorama histórico do cooperativismo brasileiro.",
+    "evidenciar": true
+  },
+  {
+    "id": "pinho-1995",
+    "referencia": "PINHO, Diva Benevides. O real e as cooperativas. **Estudos Econômicos**, São Paulo, v. 25, p. 47-71, 1995.",
+    "tipo": "Artigo",
+    "tags": [
+      "economia",
+      "plano real",
+      "diva pinho"
+    ],
+    "ano": 1995
+  },
+  {
+    "id": "pinho-1966",
+    "referencia": "PINHO, Diva Benevides. **Que é cooperativismo**. São Paulo: São Paulo Editora, 1966.",
+    "tipo": "Livro",
+    "tags": [
+      "introdução",
+      "doutrina",
+      "diva pinho"
+    ],
+    "ano": 1966
+  },
+  {
+    "id": "polonio-2004",
+    "referencia": "POLONIO, Wilson Alves. **Manual das sociedades cooperativas**. São Paulo: Atlas, 2004.",
+    "tipo": "Livro",
+    "tags": [
+      "direito cooperativo",
+      "constituição de cooperativas",
+      "gestão"
+    ],
+    "ano": 2004
+  },
+  {
+    "id": "port-2015",
+    "referencia": "PORT, Márcio. **História da 1ª cooperativa do Brasil**. Porto Alegre: Fundação Sicredi, 2015. (Diálogos sobre cooperativismo).",
+    "tipo": "Livro",
+    "tags": [
+      "crédito",
+      "história",
+      "amstad"
+    ],
+    "ano": 2015
+  },
+  {
+    "id": "porto-2015",
+    "referencia": "PORTO, Pedro Augusto Cruz; OPUSZKA, Paulo Ricardo. Economia solidária, seus princípios e sua extensão como vetor para construção de um novo cidadão. **Revista Jurídica FIC**, Curitiba, v. 1, n. 38, p. 437-456, 2015.",
+    "tipo": "Artigo",
+    "tags": [
+      "economia solidária",
+      "cidadania"
+    ],
+    "ano": 2015
+  },
+  {
+    "id": "presno-2001",
+    "referencia": "PRESNO, Nora. As cooperativas e os desafios da competitividade. **Estudos Sociedade e Agricultura**, Rio de Janeiro, UFRRJ/CPDA, 2001.",
+    "tipo": "Artigo",
+    "tags": [
+      "competitividade",
+      "agropecuária"
+    ],
+    "ano": 2001
+  },
+  {
+    "id": "ricken-2004",
+    "referencia": "RICKEN, José Roberto; RITZMANN, Sigrid Ursula Litzinger. **O cooperativismo agropecuário**. Brasília: Confebras, 2004. (Módulo 8).",
+    "tipo": "Livro",
+    "tags": [
+      "agropecuária",
+      "introdução"
+    ],
+    "ano": 2004
+  },
+  {
+    "id": "rodriguez-2002",
+    "referencia": "RODRÍGUEZ, César. À procura de alternativas econômicas em tempos de globalização: o caso das cooperativas de recicladores de lixo na Colômbia. In: SANTOS, Boaventura de Sousa (org.). **Produzir para viver**: os caminhos da produção não capitalista. Rio de Janeiro: Civilização Brasileira, 2002.",
+    "tipo": "Capítulo de livro",
+    "tags": [
+      "reciclagem",
+      "economia solidária",
+      "colômbia"
+    ],
+    "ano": 2002
+  },
+  {
+    "id": "sales-2020",
+    "referencia": "SALES, Kalina Donato; FARIA, Felicia Borges Carvalho de. Participação de cooperativas em licitações na perspectiva da política de compras governamentais. **Revista de Gestão e Organizações Cooperativas**, Santa Maria, v. 7, p. 114-131, 2020.",
+    "tipo": "Artigo",
+    "tags": [
+      "licitações",
+      "compras públicas"
+    ],
+    "ano": 2020
+  },
+  {
+    "id": "santos-2002",
+    "referencia": "SANTOS, Boaventura de Sousa (org.). **Produzir para viver**: os caminhos da produção não capitalista. Rio de Janeiro: Civilização Brasileira, 2002. (Reinventar a emancipação social, v. 2).",
+    "tipo": "Livro",
+    "tags": [
+      "economia solidária",
+      "alternativas"
+    ],
+    "ano": 2002
+  },
+  {
+    "id": "sao-roque-2015",
+    "referencia": "SÃO ROQUE DE MINAS (MG). **Lei nº 1.661/2015**. Institui no Município a temática da educação cooperativista, empreendedora e financeira na rede municipal de ensino. São Roque de Minas, 2015.",
+    "tipo": "Legislação",
+    "tags": [
+      "legislação municipal",
+      "educação cooperativista",
+      "minas gerais"
+    ],
+    "ano": 2015
   },
   {
     "id": "scamuzzi-1998",
@@ -91,5 +1290,252 @@
       "grupos"
     ],
     "ano": 2016
+  },
+  {
+    "id": "schneider-2003",
+    "referencia": "SCHNEIDER, José Odelso. A relevante herança social do Pe. Amstad SJ. **Cadernos IHU Ideias**, São Leopoldo, v. 1, n. 1, 2003.",
+    "tipo": "Artigo",
+    "tags": [
+      "amstad",
+      "história",
+      "crédito"
+    ],
+    "ano": 2003
+  },
+  {
+    "id": "schneider-2015",
+    "referencia": "SCHNEIDER, José Odelso. Cooperativismo e desenvolvimento sustentável. **Otra Economía**, São Leopoldo, v. 9, n. 16, p. 94-104, 2015.",
+    "tipo": "Artigo",
+    "tags": [
+      "sustentabilidade",
+      "ods",
+      "desenvolvimento"
+    ],
+    "ano": 2015
+  },
+  {
+    "id": "schneider-2018",
+    "referencia": "SCHNEIDER, José Odelso. Cooperativismo e direitos humanos. **Perspectiva Econômica**, v. 13, n. 2, p. 147-157, 2018.",
+    "tipo": "Artigo",
+    "tags": [
+      "direitos humanos"
+    ],
+    "ano": 2018
+  },
+  {
+    "id": "schneider-1991",
+    "referencia": "SCHNEIDER, José Odelso. **Democracia, participação e autonomia cooperativa**. São Leopoldo: Unisinos, 1991.",
+    "tipo": "Livro",
+    "tags": [
+      "democracia",
+      "participação",
+      "autonomia",
+      "schneider"
+    ],
+    "ano": 1991,
+    "nota": "Referência sobre gestão democrática e autonomia.",
+    "evidenciar": true
+  },
+  {
+    "id": "schneider-1985",
+    "referencia": "SCHNEIDER, José Odelso. **Las cooperativas en América Latina**: el cooperativismo en Brasil. Montevideo: CEPAL, 1985.",
+    "tipo": "Livro",
+    "tags": [
+      "américa latina",
+      "brasil",
+      "história",
+      "schneider"
+    ],
+    "ano": 1985
+  },
+  {
+    "id": "schneider-2006",
+    "referencia": "SCHNEIDER, José Odelso; HENDGES, Margot. Educação e capacitação cooperativa: sua importância e aplicação. **ESAC**: Economia Solidária e Ação Cooperativa, São Leopoldo, v. 1, n. 1, p. 33-48, 2006.",
+    "tipo": "Artigo",
+    "tags": [
+      "educação cooperativista",
+      "quinto princípio"
+    ],
+    "ano": 2006
+  },
+  {
+    "id": "singer-2002a",
+    "referencia": "SINGER, Paul. A recente ressurreição da economia solidária no Brasil. In: SANTOS, Boaventura de Sousa (org.). **Produzir para viver**: os caminhos da produção não capitalista. Rio de Janeiro: Civilização Brasileira, 2002. (Reinventar a emancipação social, v. 2).",
+    "tipo": "Capítulo de livro",
+    "tags": [
+      "economia solidária",
+      "singer"
+    ],
+    "ano": 2002
+  },
+  {
+    "id": "singer-2000",
+    "referencia": "SINGER, Paul. Economia solidária: um modo de produção e distribuição. In: SOUZA, André R.; SINGER, Paul (org.). **A economia solidária no Brasil**: a autogestão como resposta ao desemprego. São Paulo: Contexto, 2000. p. 15.",
+    "tipo": "Capítulo de livro",
+    "tags": [
+      "economia solidária",
+      "autogestão",
+      "singer"
+    ],
+    "ano": 2000
+  },
+  {
+    "id": "singer-2002b",
+    "referencia": "SINGER, Paul. **Introdução à economia solidária**. São Paulo: Editora Fundação Perseu Abramo, 2002.",
+    "tipo": "Livro",
+    "tags": [
+      "economia solidária",
+      "autogestão",
+      "singer"
+    ],
+    "ano": 2002,
+    "nota": "Porta de entrada para a economia solidária.",
+    "evidenciar": true
+  },
+  {
+    "id": "singer-2009",
+    "referencia": "SINGER, Paul. Políticas públicas da Secretaria Nacional de Economia Solidária do Ministério do Trabalho e Emprego. **Mercado de Trabalho**, Brasília, IPEA, v. 5, p. 43-48, 2009.",
+    "tipo": "Artigo",
+    "tags": [
+      "economia solidária",
+      "políticas públicas",
+      "senaes"
+    ],
+    "ano": 2009
+  },
+  {
+    "id": "soares-2020",
+    "referencia": "SOARES, Eugênio Alves. **National report for Brazil**: analysis of the legal co-operative framework. [S. l.]: ICA-EU, #coops4dev, 2020.",
+    "tipo": "Documento",
+    "tags": [
+      "legislação",
+      "brasil",
+      "aci"
+    ],
+    "link": "https://coops4dev.coop/sites/default/files/2021-03/Legal%20Framework%20Analysis%20-%20Brazil.pdf",
+    "ano": 2020
+  },
+  {
+    "id": "rochdale-2012",
+    "referencia": "THE ROCHDALE PIONEERS. Direção: John Montegrande e Adam Lee Hamilton. Reino Unido: Co-operative British Youth Film Academy, 2012. 1 vídeo (56 min).",
+    "tipo": "Vídeo",
+    "tags": [
+      "rochdale",
+      "história",
+      "filme"
+    ],
+    "ano": 2012,
+    "nota": "Filme sobre os Pioneiros de Rochdale, bom para abrir a aula de história.",
+    "evidenciar": true
+  },
+  {
+    "id": "tormin-2020",
+    "referencia": "TORMIN, Cassiana Vaz. A cooperativa que nasceu de uma política pública. **Coletânea de Pós-Graduação**, Brasília, TCU, v. 5, n. 1, 2020.",
+    "tipo": "Artigo",
+    "tags": [
+      "políticas públicas"
+    ],
+    "ano": 2020
+  },
+  {
+    "id": "ursine-2023c",
+    "referencia": "URSINE, Ícaro Moreira et al. O desafio da expansão do cooperativismo de crédito e o sétimo princípio. In: MEDEIROS, Monique (org.). **Anais do XII Encontro de Investigadores Latino-americanos em Cooperativismo**. [S. l.]: Even3, 2023.",
+    "tipo": "Trabalho em evento",
+    "tags": [
+      "crédito",
+      "sétimo princípio",
+      "ursine"
+    ],
+    "ano": 2023
+  },
+  {
+    "id": "ursine-2022",
+    "referencia": "URSINE, Ícaro Moreira. Cooperativismo, Estado e pandemia. In: CLARK, Giovani et al. (org.). **Pandemia, política econômica e as mudanças na ordem jurídica**. Belo Horizonte: RTM, 2022. p. 192-201.",
+    "tipo": "Capítulo de livro",
+    "tags": [
+      "pandemia",
+      "estado",
+      "ursine"
+    ],
+    "ano": 2022
+  },
+  {
+    "id": "ursine-2021",
+    "referencia": "URSINE, Ícaro Moreira. Cooperativismo: número de cooperativas no Brasil. **Pesquisa Cooperativismo**, Belo Horizonte, 2021.",
+    "tipo": "Site",
+    "tags": [
+      "dados",
+      "brasil",
+      "ursine"
+    ],
+    "link": "https://pesquisacooperativismo.blogspot.com/2021/01/blog-post_19.html",
+    "ano": 2021
+  },
+  {
+    "id": "ursine-2023b",
+    "referencia": "URSINE, Ícaro Moreira. O cooperativismo do futuro pode se tornar não cooperativo: há tendência legislativa de priorização do setor individualista e lucrativo. In: MEDEIROS, Monique (org.). **Anais do XII Encontro de Investigadores Latino-americanos em Cooperativismo**. [S. l.]: Even3, 2023.",
+    "tipo": "Trabalho em evento",
+    "tags": [
+      "legislação",
+      "identidade cooperativa",
+      "ursine"
+    ],
+    "link": "https://even3.blob.core.windows.net/anais/588575.pdf",
+    "ano": 2023
+  },
+  {
+    "id": "ursine-2019",
+    "referencia": "URSINE, Ícaro Moreira. **Planejamento estatal e cooperativismo**: pluralidade e a constituição econômica efetivada. Belo Horizonte: RTM, 2019.",
+    "tipo": "Livro",
+    "tags": [
+      "planejamento",
+      "constituição econômica",
+      "políticas públicas",
+      "ursine"
+    ],
+    "ano": 2019,
+    "evidenciar": true
+  },
+  {
+    "id": "vasconcelos-2022",
+    "referencia": "VASCONCELOS, Nilton. Valdiki Moura: uma vida dedicada ao cooperativismo. **Revista de Gestão e Organizações Cooperativas**, Santa Maria, v. 9, n. 18, 2022.",
+    "tipo": "Artigo",
+    "tags": [
+      "história",
+      "biografia",
+      "valdiki moura"
+    ],
+    "ano": 2022
+  },
+  {
+    "id": "velloso-2020",
+    "referencia": "VELLOSO, Tatiana Ribeiro; MORAIS, Leandro Pereira; MENEZES, Daniel Francisco Nagao. Trajetória e experiências das incubadoras tecnológicas de cooperativas populares (ITCPs) e empreendimentos solidários no contexto brasileiro. In: ÁLVAREZ, Juan Fernando; MARCUELLO, Carmen (org.). **Experiencias emergentes de la economía social**. [S. l.]: OIBESCOOP, 2020. p. 128-155.",
+    "tipo": "Capítulo de livro",
+    "tags": [
+      "economia solidária",
+      "incubadoras",
+      "itcp"
+    ],
+    "ano": 2020
+  },
+  {
+    "id": "veras-2000",
+    "referencia": "VERAS NETO, Francisco Quintanilha. **Aspectos jurídicos e políticos do cooperativismo**: uma abordagem além da dogmática. 2000. Dissertação (Mestrado em Direito) - Universidade Federal de Santa Catarina, Florianópolis, 2000.",
+    "tipo": "Dissertação",
+    "tags": [
+      "direito cooperativo",
+      "política"
+    ],
+    "ano": 2000
+  },
+  {
+    "id": "veras-2002",
+    "referencia": "VERAS NETO, Francisco Quintanilha. **Cooperativismo**: nova abordagem sócio-jurídica. Curitiba: Juruá, 2002.",
+    "tipo": "Livro",
+    "tags": [
+      "direito cooperativo",
+      "sociologia jurídica"
+    ],
+    "ano": 2002
   }
 ]
